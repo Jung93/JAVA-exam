@@ -5,6 +5,7 @@ public class Main{
 
 	System.out.println("Hello World!");
 	System.out.println("¾È³ç ¼¼°è");
+	System.out.println();
   }
 }
 
